@@ -53,7 +53,7 @@ export const PROJECTS = [
     technologies: ["React.js" ,"Redux", "Tailwind" ,"Appwrite"],
   },
   {
-    title: "project-3.png",
+    title: "Hackathon Organizer",
     image: "/project-3.png",
     href: "https://ai-planet-assignment-ashy.vercel.app/",
     description:
