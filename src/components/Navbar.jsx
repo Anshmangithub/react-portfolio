@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className='mb-20 flex items-center justify-between py-6'>
         <div className='flex flex-shrink-0 items-center'>
-            <img  className='max-w-28' src="/ansh-portfolio/ag.png" alt="" />
+            <img  className='max-w-28' src="/ag.png" alt="" />
         </div>
         <div className='m-8 items-center justify-center flex gap-4 text-2xl'>
             <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><FaLinkedin/></a>

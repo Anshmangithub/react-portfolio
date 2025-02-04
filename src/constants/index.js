@@ -38,7 +38,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "TalentForge Web Application",
-    image: "/ansh-portfolio/project-1.png",
+    image: "/project-1.png",
     href : "https://www.loom.com/share/8fed57991a9e4abda6ef4cd26e6e526f?sid=a91b9ab0-9bce-42b2-8c34-f231be25ad27",
     description:
       "A MERN stack platform connecting students with jobs and internships, where employers can create job postings. Features include authentication, session management, and CRUD operations.",
@@ -46,7 +46,7 @@ export const PROJECTS = [
   },
   {
     title: "BlogApp Web Application",
-    image: "/ansh-portfolio/project-2.png",
+    image: "/project-2.png",
     href:   "https://blog-app-react-roan.vercel.app/",
     description:
       "A web application that allows users to create, read, update, and delete blog posts. It features image uploads and user authentication for a seamless experience.",
@@ -54,7 +54,7 @@ export const PROJECTS = [
   },
   {
     title: "project-3.png",
-    image: "/ansh-portfolio/project-3.png",
+    image: "/project-3.png",
     href: "https://ai-planet-assignment-ashy.vercel.app/",
     description:
       "A dynamic web application that allows users to create, manage, and participate in hackathons. Featuring real-time tracking, search functionality, and filter-based sorting, it provides an efficient way to explore and organize hackathons seamlessly.",
@@ -62,7 +62,7 @@ export const PROJECTS = [
   },
   {
     title: "NPM Clone",
-    image: "/ansh-portfolio/project-4.png",
+    image: "/project-4.png",
     href: "https://npm-clone-beta.vercel.app/",
     description:
       "A web application that replicates key functionalities of NPM, allowing users to view package details like version history, keywords, and installation commands. The app also features a search functionality for quickly finding and exploring packages.",
@@ -70,7 +70,7 @@ export const PROJECTS = [
   },
   {
     title: "ShopFusion",
-    image: "/ansh-portfolio/project-5.png",
+    image: "/project-5.png",
     href: "https://shopfusion-qed42-web-assis.vercel.app/",
     description:
       "An e-commerce web application where users can explore products, filter by categories, search items, and adjust the price range. The application also allows users to add products to their cart for a smooth shopping experience.",
