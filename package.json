@@ -1,10 +1,13 @@
 {
+  "homepage": "https://Anshmangithub.github.io/ansh-portfolio",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -13,7 +16,8 @@
     "framer-motion": "^11.3.28",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-icons": "^5.3.0"
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^5.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
